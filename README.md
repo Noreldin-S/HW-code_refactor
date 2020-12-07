@@ -48,3 +48,5 @@ No need to have a “div” with  Class:”Footer”, I can simply replace “di
 
 CSS sheet:
 I applied the same change in CSS to match the HTML. Since footer is no longer a class, I changed “.footer” to just  “footer”. Line#136, and #143.
+
+![screenshot](screenshot\Screenshot_2020-12-06_184752.png)
